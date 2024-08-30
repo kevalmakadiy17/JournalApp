@@ -1,0 +1,1 @@
+export const BASE_URL = "https://maroon-magpie-tie.cyclic.app"
